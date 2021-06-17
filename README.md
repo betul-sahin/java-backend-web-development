@@ -1,2 +1,4 @@
-# Java ile Backend Web Development Patikası  
-Java ile Backend Web Development Patikası eğitimi ödevlerim
+## Java ile Backend Web Development Patikası  
+www.kodluyoruz.org tarafından düzenlenen Java ile Backend Web Development Patikası eğitimi ödevlerim.
+
+
