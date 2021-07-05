@@ -3,7 +3,7 @@ www.kodluyoruz.org tarafından düzenlenen Java ile Backend Web Development Pati
 
 Süre: 155 saat
 
-Alıştırmalar: 72
+Alıştırmalar: 91
 
 Eğitim içeriğine [buradan](https://app.patika.dev/egitimler/java-ile-backend-web-development-patikasi) ulaşabilirsiniz.
 
