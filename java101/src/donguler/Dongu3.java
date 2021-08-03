@@ -21,6 +21,5 @@ public class Dongu3 {
 
         System.out.println("4'ün " + kuvvet + ". kuvveti = " + kuvvetiniAl(4, kuvvet));
         System.out.println("4'ün " + kuvvet + ". kuvveti = " + kuvvetiniAl(5, kuvvet));
-
     }
 }
